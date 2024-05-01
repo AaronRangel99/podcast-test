@@ -20,6 +20,6 @@ jobs:
         run: |
           git config user.name AaronRangel99
           git config user.email aaron.rangel9906@gmail.com
-          git add.
+          git add .
           git commit -m "Modified Feed"
           git push
